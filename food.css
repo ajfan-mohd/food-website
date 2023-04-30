@@ -1,0 +1,165 @@
+#logoo{
+   background-color: rgba(137, 43, 226, 0.486);
+   padding-right: 20px;
+   
+   
+}
+#logo1{
+    padding-left: 30px;
+    font-style:italic;
+    display: flex;
+    justify-content: center;
+}
+#background{
+    background-image: url(../images/br.jpg);
+    min-height: 800px;
+    background-repeat: none;
+    background-size :100%;
+}
+.tag{
+    position: absolute;
+    bottom: 7cm;
+    left: 60px;
+    font-size: xx-large;
+    text-transform: uppercase;
+    color: darkgoldenrod;
+}
+#para{
+    position:absolute;
+    left:2cm;
+    bottom: 4cm;
+    color:peachpuff;
+}
+#h3{
+    text-transform: capitalize;
+    text-decoration: underline;
+    color:tomato;
+    position:absolute;
+    left:3cm;
+    top:13cm;
+    letter-spacing: 10px;
+    font-size:30px;
+}
+#menu{
+    color:brown;
+    background-color: seagreen;
+    width:50%;
+    height: 80px;
+     text-align:end;
+     left:2cm;
+     font-size: 1cm;
+}
+.flex{
+    height: 500px;
+
+justify-content: space-around;
+}
+    
+
+#img{
+    background-image: url(../images/brger.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width:400px;
+    height: 7cm;
+    position:relative;
+    left:6cm;
+    bottom: 2cm;
+    
+}
+#pid{
+    position: absolute;
+    top:2cm;
+    left:7cm;
+    font-style:normal;
+   
+}
+#bucks{
+    background-image: url(../images/star.jpg);
+    width:400px;
+    height:7cm;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left:18cm;
+    top:27cm;
+    
+}
+#block{
+    background-color: brown;
+    height:7cm;
+    position: absolute;
+    width:1cm;
+    left:25cm;
+    top:27cm;
+    
+}
+#learn{
+    background-image:url(../images/black.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    min-width: 100%;
+}
+#hh{
+    text-align: center;
+    color: darkred;
+    font-size: xx-large;
+    
+}
+.part{
+  display: flex;
+  justify-content: space-around;
+  height: 200px;
+  
+  
+ 
+  
+    
+   
+}
+
+#words{
+    color: white;
+    text-align: center;
+}
+.one{
+    text-align: center;
+    position: absolute;
+    left:4cm;
+    width:200px;
+    height:6cm;
+   
+    background-color: white;
+    color: black;
+   
+
+}
+.two{
+    
+    text-align: center;
+    position: absolute;
+    width:200px;
+    height:6cm;
+ 
+    background-color:black;
+    color: brown;
+}
+.three{
+   
+    text-align: center;
+    position: absolute;
+    width:200px;
+    height:6cm;
+    right:5cm;
+    background-color: tomato;
+    color: white;
+}
+.one,.two,.three{
+  
+   
+  
+    border:1px solid white;
+    
+
+}
